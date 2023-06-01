@@ -111,6 +111,10 @@ h1{
     font-weight: 700;
 }
 
+.add-buttom:hover{
+    background-color: hsl(159, 53%, 16%);
+}
+
 @media screen and (max-width: 600px) {
     .container{
         display: flex;
